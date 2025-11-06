@@ -1,5 +1,7 @@
 # BotAnnabelMinecraft
 BotAnnabelMinecraft
+<img width="1919" height="981" alt="image" src="https://github.com/user-attachments/assets/3ffc0b4e-1a01-43f5-9049-804e50d884c4" />
+
 
 # 🛠️ Requisitos de Instalação
 Para que seu bot funcione, você precisa de quatro componentes principais:
