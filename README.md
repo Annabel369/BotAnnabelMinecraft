@@ -102,5 +102,7 @@ Garanta que seu servidor MariaDB/MySQL (debian.tail561849.ts.net) esteja acessí
 
 <img width="744" height="569" alt="image" src="https://github.com/user-attachments/assets/ab465d3d-ed86-4dfc-ad55-e93481845a47" />
 
+https://www.youtube.com/watch?v=vxZ_7AVefpo
+
 
 
