@@ -95,3 +95,12 @@ Bash
 ollama serve
 Passo 4: Configurar o MariaDB/MySQL
 Garanta que seu servidor MariaDB/MySQL (debian.tail561849.ts.net) esteja acessível. Você precisa ter um banco de dados chamado banco e, idealmente, uma tabela (ex: jogadores) para registrar os saldos, embora o seu código atual pareça usar a tabela banco com a coluna saldo e jogador.
+
+<img width="1099" height="580" alt="image" src="https://github.com/user-attachments/assets/ea9c3251-5dd6-4290-bba7-69fe752d3f3f" />
+
+<img width="1101" height="599" alt="image" src="https://github.com/user-attachments/assets/a870a4f0-511e-4b0c-9e04-bb6670d8c71f" />
+
+<img width="744" height="569" alt="image" src="https://github.com/user-attachments/assets/ab465d3d-ed86-4dfc-ad55-e93481845a47" />
+
+
+
