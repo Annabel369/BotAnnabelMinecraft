@@ -2,6 +2,43 @@
 BotAnnabelMinecraft
 <img width="1919" height="981" alt="image" src="https://github.com/user-attachments/assets/3ffc0b4e-1a01-43f5-9049-804e50d884c4" />
 
+#🧠 Chat com Inteligência Artificial (IA Mistral via Ollama)
+• 	Responde perguntas dos jogadores com o comando:
+
+• 	Usa o modelo Mistral 7B para gerar respostas inteligentes.
+• 	Divide respostas longas para caber no chat do Minecraft.
+
+#💰 Sistema de Economia Integrado
+• 	Saldo: Mostra o saldo do jogador com o comando:
+
+• 	Comprar maçã dourada:
+
+• 	Custa $500 no jogo.
+• 	Deduz o valor do saldo do jogador.
+• 	Registra a transação no banco de dados MySQL.
+• 	Entrega uma maçã dourada no inventário do jogador.
+
+#🎁 Datas Comemorativas com Recompensas
+• 	Verifica automaticamente se o dia é especial (ex: Natal, Proclamação da República, etc.).
+• 	Anuncia no chat do servidor:
+
+• 	Dá uma maçã dourada encantada () ao jogador mais próximo.
+
+#🧭 Movimentação Inteligente
+• 	Comando para seguir o jogador:
+
+• 	O bot começa a seguir o jogador que digitou o comando.
+
+#🔐 Comandos Administrativos (restritos a admins)
+• 	Admins podem executar comandos do servidor com:
+
+• 	Exemplo:
+
+
+#🧩 Integração com Banco de Dados
+• 	Usa MariaDB/MySQL para registrar transações financeiras.
+• 	Atualiza ou insere saldo dos jogadores na tabela .
+
 
 # 🛠️ Requisitos de Instalação
 Para que seu bot funcione, você precisa de quatro componentes principais:
