@@ -1,4 +1,7 @@
 # BotAnnabelMinecraft
+
+<img width="837" height="285" alt="image" src="https://github.com/user-attachments/assets/e664d412-4ce6-491c-b707-5af24b43387a" />
+
 BotAnnabelMinecraft
 <img width="1919" height="981" alt="image" src="https://github.com/user-attachments/assets/3ffc0b4e-1a01-43f5-9049-804e50d884c4" />
 
